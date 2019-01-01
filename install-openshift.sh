@@ -2,6 +2,8 @@
 
 ## see: https://youtu.be/aqXSbDZggK4
 
+set -x
+
 ## Default variables to use
 export INTERACTIVE=${INTERACTIVE:="true"}
 export PVS=${INTERACTIVE:="true"}
